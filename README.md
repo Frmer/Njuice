@@ -2,7 +2,7 @@ Njuice is a fictional company based on a case of a college class about a store t
 
 Group consists of :
 
-Jason Lee
-Radyan Mahandya
-Rizkullah Risly
-Zefanya Febrilia Laurent
+1. Jason Lee
+2. Radyan Mahandya
+3. Rizkullah Risly
+4. Zefanya Febrilia Laurent
